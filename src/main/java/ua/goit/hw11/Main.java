@@ -1,10 +1,8 @@
 package ua.goit.hw11;
 
-import ua.goit.hw11.crudServices.ClientCrudService;
 import ua.goit.hw11.crudServices.PlanetCrudService;
 import ua.goit.hw11.crudServices.TicketCrudService;
 import ua.goit.hw11.entity.Client;
-import ua.goit.hw11.entity.Planet;
 import ua.goit.hw11.entity.Ticket;
 
 import java.time.LocalDateTime;
